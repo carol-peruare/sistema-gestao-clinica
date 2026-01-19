@@ -24,7 +24,7 @@ Módulo responsável por marcar consultas e exames, com verificação automátic
 ## Estrutura do Código
 O projeto foi estruturado com foco em modularização, dividindo os requisitos/funcionalidades em funções específicas para facilitar a leitura e manutenção.
 
-## Autores
+## Autoras
 
 * [Carolina Peruare](https://github.com/carol-peruare)
 * [Maressa Luiza](https://github.com/Malu006)
