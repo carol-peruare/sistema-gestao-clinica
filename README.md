@@ -1,6 +1,6 @@
 # 🏥 Sistema de Atendimento em Clínica Médica
 
-Implementação completa de um sistema de gestão hospitalar em linguagem C. Este projeto foi desenvolvido como **Trabalho Final** da disciplina de Algoritmos e Estruturas de Dados I (UFMT - 2025).
+Implementação completa de um sistema de gestão hospitalar em linguagem C. Este projeto foi desenvolvido como **Trabalho Final** da disciplina de Algoritmos e Estruturas de Dados I (UFMT - 2025/1).
 
 O objetivo foi transformar um fluxograma complexo em um software funcional, utilizando modularização e estruturas de dados em memória.
 
@@ -37,7 +37,7 @@ O projeto foi estruturado com foco em **Modularização**, dividindo os requisit
 ---
 **Desenvolvido por**
   
-Carolina Peruare • Maressa Luiza
+Carolina Peruare Ferreira • Maressa Luiza dos Reis Machado
 
 </div>
 
