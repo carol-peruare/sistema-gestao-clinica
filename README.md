@@ -1,5 +1,5 @@
 # Sistema de Gestão de Clínica Médica
-Este projeto consiste na implementação de um sistema de gestão hospitalar em linguagem C, desenvolvido como Trabalho Final da disciplina de Algoritmos e Estruturas de Dados I (UFMT), a partir de um fluxograma.
+Este projeto consiste na implementação de um sistema de gestão hospitalar em linguagem C, desenvolvido como Trabalho Final da disciplina de Algoritmos e Estruturas de Dados I (UFMT-2025/1), a partir de um fluxograma.
 
 ## Funcionalidades do Sistema
 
@@ -19,7 +19,7 @@ Módulo responsável por marcar consultas e exames, com verificação automátic
 ### 3. Financeiro
 * Geração de nota fiscal simulada no terminal.
 * Cálculo de valores baseado nos procedimentos realizados.
-* Opções de pagamento via Pix ou Cartão (simulados).
+* Opções de pagamento simulado via Pix ou Cartão.
 
 ## Estrutura do Código
 O projeto foi estruturado com foco em modularização, dividindo os requisitos/funcionalidades em funções específicas para facilitar a leitura e manutenção.
