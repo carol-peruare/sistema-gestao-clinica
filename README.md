@@ -1,5 +1,5 @@
 # Sistema de Gestão de Clínica Médica
-Este projeto consiste na implementação de um sistema de gestão hospitalar em linguagem C, desenvolvido como Trabalho Final da disciplina de Algoritmos e Estruturas de Dados I (UFMT-2025/1), a partir de um fluxograma.
+Este projeto consiste na implementação de um sistema de gestão hospitalar em linguagem C, desenvolvido como Trabalho Final da disciplina de Algoritmos e Estruturas de Dados II (UFMT-2025/2).
 
 ## Funcionalidades do Sistema
 
